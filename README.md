@@ -1,5 +1,5 @@
 # RS485-master-liberary
-making RS485 simpler.
+Making RS485 simpler.
 
 This Library makes everything very simple for establishing an Industrial Standard RS485 Modbus Communication with our ESP32-RS485 Modbus Gateway or any other Arduino compatible board in which you can use TTL to RS485 modules available.
 <!-- -->
@@ -60,5 +60,5 @@ Please review the LICENSE.md file for license information.
 
 If you have any questions or concerns on licensing, please contact techtonions@gmail.com
 
-Distributed as-is; no warranty is given.
+Distributed as-is. no warranty is given.
 
